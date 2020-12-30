@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 You need the API Documentation, [W3cubdocs](https://docs.w3cub.com/)
+- 🌱 You need the API Documentation, [W3cubdocs](https://docs.w3cub.com/).
 
  Try to use it.
 
@@ -11,8 +11,6 @@
 - 👯 You have a naughty kid？
 
  Try to use [Math worksheets](https://tools.w3cub.com/math-calc).
-
-
 
 
 
