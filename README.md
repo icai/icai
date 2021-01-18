@@ -7,10 +7,8 @@
 
 
 
+[![@w3cub](https://avatars1.githubusercontent.com/u/24860109)](https://github.com/organizations/w3cub/settings/profile)
 
-- 👯 You have a naughty kid？
-
- Try to use [Math worksheets](https://tools.w3cub.com/math-calc).
 
 
 
