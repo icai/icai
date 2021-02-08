@@ -7,7 +7,7 @@
 
 
 
-[![@w3cub](https://avatars1.githubusercontent.com/u/24860109)](https://github.com/organizations/w3cub/settings/profile)
+[![@w3cub](https://avatars1.githubusercontent.com/u/24860109)](https://docs.w3cub.com/)
 
 
 
