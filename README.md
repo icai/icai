@@ -7,7 +7,7 @@
 
 
 
-[![@w3cub](https://raw.githubusercontent.com/icai/icai/master/001tPf3Lly8guh2v39lb6j60cs0cs0st02.jpeg)](https://docs.w3cub.com/)
+[![@w3cub](https://avatars.githubusercontent.com/u/24860109)](https://docs.w3cub.com/)
 
 
 
