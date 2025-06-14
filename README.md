@@ -66,7 +66,6 @@ Clean UI, fast, no ads.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icai&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icai&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
