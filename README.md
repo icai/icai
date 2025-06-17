@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Open%20Source%20Enthusiast;Tech%20Explorer;Always%20Learning..." alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on:
-  - [**W3cub Docs**](https://docs.w3cub.com/) — a modern frontend documentation hub
-  - [**W3cub Tools**](https://tools.w3cub.com/) — handy online tools for developers and designers  
 - 💼 Main open-source project: [**NueCMS**](https://github.com/nuecms) — a lightweight, developer-first content management system  
+- 🌐 Also building:
+  - [**W3cubDocs**](https://docs.w3cub.com/) — a modern frontend documentation hub  
+  - [**W3cubTools**](https://tools.w3cub.com/) — handy online tools for developers and designers  
 - 🌱 Currently learning **Rust, WebAssembly, and AI development**  
 - 💬 Ask me about **Vue, React, Node.js, TypeScript, or anything JavaScript**  
 - ⚡ Fun fact: I automate everything I can — including this README!
