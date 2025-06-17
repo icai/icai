@@ -33,7 +33,7 @@ Ideal for websites, documentation portals, and lightweight SaaS platforms.
 #### 📘 [W3cub Docs](https://docs.w3cub.com/)  
 A powerful web documentation hub for HTML, CSS, JavaScript, Vue, React, and more.  
 Features:
-- Dark mode  
+
 - Offline browsing  
 - Keyboard navigation  
 - Lightning-fast search  
