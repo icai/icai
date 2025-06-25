@@ -34,7 +34,7 @@ Ideal for websites, documentation portals, and lightweight SaaS platforms.
 A powerful web documentation hub for HTML, CSS, JavaScript, Vue, React, and more.  
 Features:
 
-- Offline browsing  
+ 
 - Keyboard navigation  
 - Lightning-fast search  
 
