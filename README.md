@@ -30,7 +30,7 @@ Ideal for websites, documentation portals, and lightweight SaaS platforms.
 
 ---
 
-#### 📘 [W3cub Docs](https://docs.w3cub.com/)  
+#### 📘 [W3cubDocs](https://docs.w3cub.com/)  
 A powerful web documentation hub for HTML, CSS, JavaScript, Vue, React, and more.  
 Features:
 
@@ -42,7 +42,7 @@ Features:
 ---
 
 
-#### 🧰 [W3cub Tools](https://tools.w3cub.com/)  
+#### 🧰 [W3cubTools](https://tools.w3cub.com/)  
 A collection of useful online tools for developers, including:
 - JSON formatter  
 - Regex tester  
