@@ -17,6 +17,7 @@
 
 ### 🚀 Featured Projects
 
+
 #### 🧩 [NueCMS](https://github.com/nuecms)  
 A modular, extensible, and developer-friendly content management system.  
 Highlights:
@@ -55,15 +56,29 @@ Clean UI, fast, no ads.
 ---
 
 
+#### 🖼️ **[Nicasa](https://github.com/nicasa-project)**
 
-#### 🖼️ [Nicasa](https://github.com/nicasa-project)  
-A modern, lightweight image viewer inspired by Google’s discontinued Picasa.  
-Highlights:
-- Lightning-fast image loading and smooth navigation  
-- Clean, distraction-free interface  
-- Cross-platform support 
+*A modern, lightweight image viewer inspired by Google’s discontinued Picasa.*
 
-Perfect for anyone who wants the speed, simplicity, and joy of a great photo viewer.
+Nicasa is built for speed and focus. It strips away clutter and lets you browse photos instantly, even in large folders or with high-resolution images.
+
+**Highlights**
+
+* ⚡ **Lightning-fast image loading** with smooth, responsive navigation
+* 🎯 **Clean, distraction-free interface** focused entirely on your photos
+* 🖥️ **Cross-platform support**, designed with native performance in mind
+
+Perfect for photographers, designers, and anyone who misses the simplicity and joy of a truly great photo viewer.
+
+<p align="left">
+  <a href="https://apps.apple.com/us/app/nicasa/id6756032669?mt=12">
+    <img
+      src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83"
+      alt="Download on the Mac App Store"
+      height="40"
+    />
+  </a>
+</p>
 
 ---
 
