@@ -56,7 +56,7 @@ Clean UI, fast, no ads.
 ---
 
 
-#### 🖼️ **[Nicasa](https://github.com/nicasa-project)**
+#### 🖼️ **[Nicasa](https://github.com/nicasa-app)**
 
 *A modern, lightweight image viewer inspired by Google’s discontinued Picasa.*
 
