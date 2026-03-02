@@ -94,8 +94,8 @@ Perfect for photographers, designers, and anyone who misses the simplicity and j
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icai&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icai&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="./profile/stats.svg" />
+  <img src="./profile/top-langs.svg" />
 </p>
 
 ---
