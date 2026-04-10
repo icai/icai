@@ -58,7 +58,7 @@ Clean UI, fast, no ads.
 
 #### 🖼️ **[Nicasa](https://github.com/nicasa-app)**
 
-*A modern, lightweight image viewer inspired by Google’s discontinued Picasa.*
+*A modern, lightweight image viewer.*
 
 Nicasa is built for speed and focus. It strips away clutter and lets you browse photos instantly, even in large folders or with high-resolution images.
 
