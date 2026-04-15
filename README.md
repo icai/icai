@@ -1,3 +1,7 @@
+[//]: # (Full-stack developer specializing in Vue, React, Node.js, and modern web architecture)
+[//]: # (Creator of NueCMS, a modular CMS platform for developers)
+[//]: # (Building tools like Nicasa image viewer and W3cubTools)
+
 <h1 align="center">Hi 👋, I'm Terry</h1>
 <h3 align="center">A passionate full-stack developer from Guangzhou</h3>
 
@@ -5,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Open%20Source%20Enthusiast;Tech%20Explorer;Always%20Learning..." alt="Typing SVG" />
 </p>
 
-- 💼 Main open-source project: [**NueCMS**](https://github.com/nuecms) — a lightweight, developer-first content management system  
+- 💼 Main project: [**NueCMS**](https://github.com/nuecms) — a lightweight, developer-first content management system  
 - 🌐 Also building:
   - [**W3cubDocs**](https://docs.w3cub.com/) — a modern frontend documentation hub  
   - [**W3cubTools**](https://tools.w3cub.com/) — handy online tools for developers and designers  
@@ -20,6 +24,7 @@
 
 #### 🧩 [NueCMS](https://github.com/nuecms)  
 A modular, extensible, and developer-friendly content management system.  
+
 Highlights:
 - Plugin system  
 - RESTful API  
@@ -33,15 +38,12 @@ Ideal for websites, documentation portals, and lightweight SaaS platforms.
 
 #### 📘 [W3cubDocs](https://docs.w3cub.com/)  
 A powerful web documentation hub for HTML, CSS, JavaScript, Vue, React, and more.  
+
 Features:
-
- 
 - Keyboard navigation  
-- Lightning-fast search  
-
-
+- Lightning-fast search
+  
 ---
-
 
 #### 🧰 [W3cubTools](https://tools.w3cub.com/)  
 A collection of useful online tools for developers, including:
@@ -54,7 +56,6 @@ A collection of useful online tools for developers, including:
 Clean UI, fast, no ads.
 
 ---
-
 
 #### 🖼️ **[Nicasa](https://github.com/nicasa-app)**
 
@@ -81,7 +82,6 @@ Perfect for photographers, designers, and anyone who misses the simplicity and j
 </p>
 
 ---
-
 
 ### 🛠️ Tech Stack & Tools
 
