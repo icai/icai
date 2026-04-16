@@ -79,6 +79,14 @@ Perfect for photographers, designers, and anyone who misses the simplicity and j
       height="40"
     />
   </a>
+  
+  <a href="https://chromewebstore.google.com/detail/nicasa-Image-viewer/cihceekeiedkinpjjjfehlgjdhpeokbj">
+    <img
+      src="https://raw.githubusercontent.com/icai/icai/refs/heads/master/profile/Chrome-Web-Store.png"
+      alt="Download on the Chrome Web Store"
+      height="40"
+    />
+  </a>
 </p>
 
 ---
