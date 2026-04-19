@@ -71,13 +71,14 @@ Nicasa is built for speed and focus. It strips away clutter and lets you browse 
 
 Perfect for photographers, designers, and anyone who misses the simplicity and joy of a truly great photo viewer.
 
+
 <p align="left">
-  <a href="https://apps.apple.com/us/app/nicasa/id6756032669?mt=12" target="_blank">
+  <a href="https://nicasa.w3cub.com/" target="_blank">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83"
       alt="Download on the Mac App Store"
       height="40" />
   </a>
-  <a href="https://chromewebstore.google.com/detail/nicasa-Image-viewer/cihceekeiedkinpjjjfehlgjdhpeokbj" target="_blank">
+  <a href="https://nicasa.w3cub.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/icai/icai/refs/heads/master/profile/Chrome-Web-Store.png"
       alt="Download on the Chrome Web Store"
       height="40" />
