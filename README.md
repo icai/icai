@@ -98,8 +98,8 @@ Perfect for photographers, designers, and anyone who misses the simplicity and j
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" />
-  <img src="./profile/top-langs.svg" />
+  <img src="./profile/stats.svg?123" />
+  <img src="./profile/top-langs.svg?123" />
 </p>
 
 ---
