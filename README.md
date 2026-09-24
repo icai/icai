@@ -3,7 +3,7 @@
 [//]: # (Building tools like Nicasa image viewer and W3cubTools)
 
 <h1 align="center">Hi 👋, I'm Terry</h1>
-<h3 align="center">A passionate full-stack developer from Guangzhou</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Open%20Source%20Enthusiast;Tech%20Explorer;Always%20Learning..." alt="Typing SVG" />
