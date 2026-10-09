@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Terry Cai&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 624, Total Commits  (last year) : 935, Total PRs: 43, Total Issues: 193, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Stars Earned: 622, Total Commits  (last year) : 935, Total PRs: 43, Total Issues: 193, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.72718875758576;
+        stroke-dashoffset: 66.75987299867052;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >624</text>
+      >622</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
