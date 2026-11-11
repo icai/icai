@@ -1,0 +1,37 @@
+name: Update README Sister Apps
+
+on:
+  schedule:
+    # Check weekly and update on alternating ISO weeks (every 14 days).
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Update sister apps collection
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            week=$(date -u +%V | sed 's/^0//')
+            if [ $((week % 2)) -ne 0 ]; then
+              echo "Skipping this week; updates run every two weeks."
+              exit 0
+            fi
+          fi
+          node scripts/update-readme.mjs
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Update sister apps collection"
+          git push

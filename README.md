@@ -57,33 +57,87 @@ Clean UI, fast, no ads.
 
 ---
 
-#### 🖼️ **[Nicasa](https://github.com/nicasa-app)**
+<!-- sister-apps:start -->
 
-*A modern, lightweight image viewer.*
+### 📦 My Apps
 
-Nicasa is built for speed and focus. It strips away clutter and lets you browse photos instantly, even in large folders or with high-resolution images.
+<p>A collection of apps I’ve built for macOS and the web.</p>
 
-**Highlights**
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/nicasa/id6756032669">
+    <img src="https://app-sources.w3cub.com/sister-apps/nicasa.png" alt="Nicasa icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/nicasa/id6756032669"><strong>Nicasa</strong></a><br />
+  <span>AI Image Viewer Tool</span></p>
+</td>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/gomoku/id6771268165">
+    <img src="https://app-sources.w3cub.com/sister-apps/gomoku.png" alt="Gomoku icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/gomoku/id6771268165"><strong>Gomoku</strong></a><br />
+  <span>Gomoku Game</span></p>
+</td>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/reminder/id6776577400">
+    <img src="https://app-sources.w3cub.com/sister-apps/reminder.png" alt="Reminder icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/reminder/id6776577400"><strong>Reminder</strong></a><br />
+  <span>Desktop Pet Reminder</span></p>
+</td>
+</tr>
+<tr><td colspan="3"><hr /></td></tr>
+<tr>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/nuezip/id6785846417">
+    <img src="https://app-sources.w3cub.com/sister-apps/nuezip.png" alt="NueZip icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/nuezip/id6785846417"><strong>NueZip</strong></a><br />
+  <span>Professional Archive Tool</span></p>
+</td>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/minesweeper/id6793471840">
+    <img src="https://app-sources.w3cub.com/sister-apps/minesweeper.png" alt="Minesweeper icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/minesweeper/id6793471840"><strong>Minesweeper</strong></a><br />
+  <span>Classic Minesweeper Game</span></p>
+</td>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/sudoku/id6793606018">
+    <img src="https://app-sources.w3cub.com/sister-apps/sudoku.png" alt="Sudoku icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/sudoku/id6793606018"><strong>Sudoku</strong></a><br />
+  <span>Classic Sudoku Game</span></p>
+</td>
+</tr>
+<tr><td colspan="3"><hr /></td></tr>
+<tr>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/clipboxai/id6793567982">
+    <img src="https://app-sources.w3cub.com/sister-apps/clipboard.png" alt="ClipboxAI icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/clipboxai/id6793567982"><strong>ClipboxAI</strong></a><br />
+  <span>Smart Clipboard Manager</span></p>
+</td>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/nplyr/id6797516487">
+    <img src="https://app-sources.w3cub.com/sister-apps/nplyr.png" alt="nPlyr icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/nplyr/id6797516487"><strong>nPlyr</strong></a><br />
+  <span>All-in-One Media Player</span></p>
+</td>
+<td width="33%" valign="top" align="center">
+  <p><a href="https://apps.apple.com/us/app/qdiff/id6825630546">
+    <img src="https://app-sources.w3cub.com/sister-apps/qdiff.png" alt="qDiff icon" width="72" height="72" />
+  </a><br />
+  <a href="https://apps.apple.com/us/app/qdiff/id6825630546"><strong>qDiff</strong></a><br />
+  <span>Diff and merge for macOS</span></p>
+</td>
+</tr>
+</table>
 
-* ⚡ **Lightning-fast image loading** with smooth, responsive navigation
-* 🎯 **Clean, distraction-free interface** focused entirely on your photos
-* 🖥️ **Cross-platform support**, designed with native performance in mind
-
-Perfect for photographers, designers, and anyone who misses the simplicity and joy of a truly great photo viewer.
-
-
-<p align="left">
-  <a href="https://nicasa.w3cub.com/" target="_blank">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83"
-      alt="Download on the Mac App Store"
-      height="40" />
-  </a>
-  <a href="https://nicasa.w3cub.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/icai/icai/refs/heads/master/profile/Chrome-Web-Store.png"
-      alt="Download on the Chrome Web Store"
-      height="40" />
-  </a>
-</p>
+<!-- sister-apps:end -->
 
 ---
 
