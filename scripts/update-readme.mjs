@@ -29,14 +29,18 @@ const cards = apps.map((app) => {
     ? `\n  <img src="${escapeHtml(app.logo)}" alt="${name} icon" width="72" height="72" />`
     : '';
 
-  return `<td width="33%" valign="top" align="center">\n  <p>${logo ? `<a href="${appStoreUrl}">${logo}</a>\n  ` : ''}<a href="${appStoreUrl}"><strong>${name}</strong></a><br />\n  <span>${description}</span></p>\n</td>`;
+  return `<td width="25%" valign="top" align="center">\n  <div><a href="${appStoreUrl}">${logo}</a></div>\n  <div><a href="${appStoreUrl}"><strong>${name}</strong></a></div>\n  <div>${description}</div>\n</td>`;
 });
 
 const rows = [];
-for (let index = 0; index < cards.length; index += 3) {
-  rows.push(`<tr>\n${cards.slice(index, index + 3).join('\n')}\n</tr>`);
-  if (index + 3 < cards.length) {
-    rows.push('<tr><td colspan="3"><hr /></td></tr>');
+for (let index = 0; index < cards.length; index += 4) {
+  const rowCards = cards.slice(index, index + 4);
+  while (rowCards.length < 4) {
+    rowCards.push('<td width="25%"></td>');
+  }
+  rows.push(`<tr>\n${rowCards.join('\n')}\n</tr>`);
+  if (index + 4 < cards.length) {
+    rows.push('<tr><td colspan="4" style="border-bottom: 1px solid #ddd; height: 12px;"></td></tr>');
   }
 }
 

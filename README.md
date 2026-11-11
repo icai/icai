@@ -65,75 +65,69 @@ Clean UI, fast, no ads.
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/nicasa/id6756032669">
-    <img src="https://app-sources.w3cub.com/sister-apps/nicasa.png" alt="Nicasa icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/nicasa/id6756032669"><strong>Nicasa</strong></a><br />
-  <span>AI Image Viewer Tool</span></p>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/nicasa/id6756032669">
+  <img src="https://app-sources.w3cub.com/sister-apps/nicasa.png" alt="Nicasa icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/nicasa/id6756032669"><strong>Nicasa</strong></a></div>
+  <div>AI Image Viewer Tool</div>
 </td>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/gomoku/id6771268165">
-    <img src="https://app-sources.w3cub.com/sister-apps/gomoku.png" alt="Gomoku icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/gomoku/id6771268165"><strong>Gomoku</strong></a><br />
-  <span>Gomoku Game</span></p>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/gomoku/id6771268165">
+  <img src="https://app-sources.w3cub.com/sister-apps/gomoku.png" alt="Gomoku icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/gomoku/id6771268165"><strong>Gomoku</strong></a></div>
+  <div>Gomoku Game</div>
 </td>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/reminder/id6776577400">
-    <img src="https://app-sources.w3cub.com/sister-apps/reminder.png" alt="Reminder icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/reminder/id6776577400"><strong>Reminder</strong></a><br />
-  <span>Desktop Pet Reminder</span></p>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/reminder/id6776577400">
+  <img src="https://app-sources.w3cub.com/sister-apps/reminder.png" alt="Reminder icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/reminder/id6776577400"><strong>Reminder</strong></a></div>
+  <div>Desktop Pet Reminder</div>
 </td>
-</tr>
-<tr><td colspan="3"><hr /></td></tr>
-<tr>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/nuezip/id6785846417">
-    <img src="https://app-sources.w3cub.com/sister-apps/nuezip.png" alt="NueZip icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/nuezip/id6785846417"><strong>NueZip</strong></a><br />
-  <span>Professional Archive Tool</span></p>
-</td>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/minesweeper/id6793471840">
-    <img src="https://app-sources.w3cub.com/sister-apps/minesweeper.png" alt="Minesweeper icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/minesweeper/id6793471840"><strong>Minesweeper</strong></a><br />
-  <span>Classic Minesweeper Game</span></p>
-</td>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/sudoku/id6793606018">
-    <img src="https://app-sources.w3cub.com/sister-apps/sudoku.png" alt="Sudoku icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/sudoku/id6793606018"><strong>Sudoku</strong></a><br />
-  <span>Classic Sudoku Game</span></p>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/nuezip/id6785846417">
+  <img src="https://app-sources.w3cub.com/sister-apps/nuezip.png" alt="NueZip icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/nuezip/id6785846417"><strong>NueZip</strong></a></div>
+  <div>Professional Archive Tool</div>
 </td>
 </tr>
-<tr><td colspan="3"><hr /></td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid #ddd; height: 12px;"></td></tr>
 <tr>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/clipboxai/id6793567982">
-    <img src="https://app-sources.w3cub.com/sister-apps/clipboard.png" alt="ClipboxAI icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/clipboxai/id6793567982"><strong>ClipboxAI</strong></a><br />
-  <span>Smart Clipboard Manager</span></p>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/minesweeper/id6793471840">
+  <img src="https://app-sources.w3cub.com/sister-apps/minesweeper.png" alt="Minesweeper icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/minesweeper/id6793471840"><strong>Minesweeper</strong></a></div>
+  <div>Classic Minesweeper Game</div>
 </td>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/nplyr/id6797516487">
-    <img src="https://app-sources.w3cub.com/sister-apps/nplyr.png" alt="nPlyr icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/nplyr/id6797516487"><strong>nPlyr</strong></a><br />
-  <span>All-in-One Media Player</span></p>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/sudoku/id6793606018">
+  <img src="https://app-sources.w3cub.com/sister-apps/sudoku.png" alt="Sudoku icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/sudoku/id6793606018"><strong>Sudoku</strong></a></div>
+  <div>Classic Sudoku Game</div>
 </td>
-<td width="33%" valign="top" align="center">
-  <p><a href="https://apps.apple.com/us/app/qdiff/id6825630546">
-    <img src="https://app-sources.w3cub.com/sister-apps/qdiff.png" alt="qDiff icon" width="72" height="72" />
-  </a><br />
-  <a href="https://apps.apple.com/us/app/qdiff/id6825630546"><strong>qDiff</strong></a><br />
-  <span>Diff and merge for macOS</span></p>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/clipboxai/id6793567982">
+  <img src="https://app-sources.w3cub.com/sister-apps/clipboard.png" alt="ClipboxAI icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/clipboxai/id6793567982"><strong>ClipboxAI</strong></a></div>
+  <div>Smart Clipboard Manager</div>
 </td>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/nplyr/id6797516487">
+  <img src="https://app-sources.w3cub.com/sister-apps/nplyr.png" alt="nPlyr icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/nplyr/id6797516487"><strong>nPlyr</strong></a></div>
+  <div>All-in-One Media Player</div>
+</td>
+</tr>
+<tr><td colspan="4" style="border-bottom: 1px solid #ddd; height: 12px;"></td></tr>
+<tr>
+<td width="25%" valign="top" align="center">
+  <div><a href="https://apps.apple.com/us/app/qdiff/id6825630546">
+  <img src="https://app-sources.w3cub.com/sister-apps/qdiff.png" alt="qDiff icon" width="72" height="72" /></a></div>
+  <div><a href="https://apps.apple.com/us/app/qdiff/id6825630546"><strong>qDiff</strong></a></div>
+  <div>Diff and merge for macOS</div>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
 </tr>
 </table>
 
