@@ -81,7 +81,7 @@ Clean UI, fast, no ads.
   <div><a href="https://apps.apple.com/us/app/reminder/id6776577400">
   <img src="https://app-sources.w3cub.com/sister-apps/reminder.png" alt="Reminder icon" width="72" height="72" /></a></div>
   <div><a href="https://apps.apple.com/us/app/reminder/id6776577400"><strong>Reminder</strong></a></div>
-  <div>Desktop Pet Reminder</div>
+  <div>Reminders that grow with you</div>
 </td>
 <td width="25%" valign="top" align="center">
   <div><a href="https://apps.apple.com/us/app/nuezip/id6785846417">
